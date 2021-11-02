@@ -1,0 +1,26 @@
+body{
+	background-color:lightblue;
+	
+	}
+.container{
+	background-color:#5AC6E0;
+	
+	}
+.col-sm-8{
+	border-style:solid;
+    border-width:2px;  
+    border-color:#48A0B6;
+}
+.col-sm-4{
+	border-style:solid;
+    border-width:2px;  
+    border-color:#48A0B6;
+}
+.col-sm{
+	border-style:solid;
+    border-width:2px;  
+    border-color:#48A0B6;
+}
+
+
+	
